@@ -1,6 +1,6 @@
 How to run Solana-Raydium-Pumpfun-Sniper-Bot
 
-## 1 Clone
+## 1 Clone repo
 
 ```bash
 git clone https://github.com/Diveinprogramming/solana-raydium-pumpfun-sniper-bot.git
