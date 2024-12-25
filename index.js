@@ -163,7 +163,6 @@ const startSniper = async () => {
 const initialize = async () => {
   try {
     const balance = await checkBalance();
-      logWarning("Low wallet balance.");
     await fetchListings();
     // startSniper();
   } catch (error) {}
